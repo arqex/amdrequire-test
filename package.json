@@ -1,0 +1,12 @@
+{
+  "name": "amdrequire-test",
+  "version": "0.0.0",
+  "description": "A module to reuse AMD scripts in node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javi Marquez",
+  "license": "BSD-2-Clause",
+  "dependencies": {}
+}
