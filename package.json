@@ -1,7 +1,7 @@
 {
   "name": "amdrequire-test",
-  "version": "0.0.0",
-  "description": "A module to reuse AMD scripts in node.",
+  "version": "0.0.1",
+  "description": "A simple application to test AMDrequire.",
   "main": "app.js",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Javi Marquez",
+  "author": "Javi Marquez <javi@arqex.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "express": "~3.6.0",

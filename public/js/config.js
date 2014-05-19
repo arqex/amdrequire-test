@@ -5,6 +5,6 @@ define({
 		'one': './somefolder/one',
 		'two': './somefolder/two',
 		'three': './somefolder/other/three',
-		'six': 'somefolder/different/six'
+		'six': '/js/somefolder/different/six'
 	}
 });
